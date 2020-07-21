@@ -1,9 +1,10 @@
 # Daily LeetCode - 
 
 ## Info
-- Time:
+- Date:
 - Link:
 - Tag:
+- Difficulty:
 
 
 ## Description
